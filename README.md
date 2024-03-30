@@ -128,5 +128,7 @@ plt.show()
 
 ![image](https://github.com/S-Priyadharshan/rnn-stock-price-prediction/assets/145854138/ba3c2466-7045-4ff2-835b-7d83108122ed)
 
+![image](https://github.com/S-Priyadharshan/rnn-stock-price-prediction/assets/145854138/ac870891-34c1-4443-92fa-cac68ba30316)
 
 ## Result
+Hence a nerual network based on Simple RNN to predict Google stock prices is successfully established.
